@@ -223,8 +223,3 @@
 0.0.0.0	passport-log.youku.com
 0.0.0.0	speed.lstat.youku.com
 0.0.0.0	stat.youku.com
-
-##############################################
-#douyu
-0.0.0.0 staticlive.douyucdn.cn
-0.0.0.0 shark.douyucdn.cn
