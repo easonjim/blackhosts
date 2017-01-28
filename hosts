@@ -1,0 +1,230 @@
+##############################################
+#qq
+0.0.0.0 btrace.qq.com
+0.0.0.0 c.isdspeed.qq.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 pingtcss.qq.com
+0.0.0.0 tajs.qq.com
+0.0.0.0 trace.qq.com
+#屏蔽腾讯QQ广告代码
+0.0.0.0 fodder.qq.com
+0.0.0.0 adshmct.qq.com
+0.0.0.0 hm.l.qq.com
+0.0.0.0 adshmmsg.qq.com
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 v.gdt.qq.com
+0.0.0.0 s.gdt.qq.com
+0.0.0.0 imc.l.qq.com
+0.0.0.0 client.show.qq.com
+0.0.0.0 user1.game.qq.com
+0.0.0.0 c.gdt.qq.com
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 tj.b.qq.com
+0.0.0.0 dir.minigame.qq.com
+0.0.0.0 if.mingxing.qq.com
+0.0.0.0 showwxml.qq.com
+0.0.0.0 2052.flash2-http.qq.com
+0.0.0.0 img1.sj.qq.com
+0.0.0.0 ws.sj.qq.com
+0.0.0.0 scdown.qq.com
+0.0.0.0 img1.gtimg.com
+0.0.0.0 pinghot.qq.com
+0.0.0.0 pingfore.tenpay.com
+0.0.0.0 jqmt.qq.com
+0.0.0.0 gu.qlogo.cn
+0.0.0.0 py.qlogo.cn
+0.0.0.0 py2.qlogo.cn
+0.0.0.0 bugreportv2.qq.com
+0.0.0.0 ex.qq.com
+0.0.0.0 cgi.connect.qq.com
+#屏蔽腾讯广告代码
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 adsfile.qq.com
+0.0.0.0 play.qq.com
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 tj.video.qq.com
+0.0.0.0 vv.video.qq.com
+0.0.0.0 livep.l.qq.com
+0.0.0.0 rcgi.video.qq.com
+0.0.0.0 aid.video.qq.com
+0.0.0.0 pinghot.qq.com
+0.0.0.0 54kfqq.com
+0.0.0.0 qqbm.zhuiying.net
+0.0.0.0 qqbmad.mycode8.net
+0.0.0.0 vhotlxp.video.qq.com
+0.0.0.0 livem.l.qq.com
+#click_url 聊天窗口左下角文字广告
+0.0.0.0  imc.l.qq.com
+0.0.0.0 adsqqclick.qq.com
+
+##############################################
+#baidu
+0.0.0.0 cbjs.baidu.com
+0.0.0.0 cbjslog.baidu.com
+0.0.0.0 cpro.baidu.com
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 pos.baidu.com
+0.0.0.0 static1.baifendian.com
+
+##############################################
+#tanx
+0.0.0.0 p.tanx.com
+
+##############################################
+#clicki
+0.0.0.0 www.clicki.cn
+
+##############################################
+#alimama
+0.0.0.0 a.alimama.cn
+
+##############################################
+#taobao
+0.0.0.0 acookie.taobao.com
+0.0.0.0 g.click.taobao.com
+
+##############################################
+#sina&weibo
+0.0.0.0 hits.sinajs.cn
+0.0.0.0 rs.sinajs.cn
+0.0.0.0 tjs.sjs.sinajs.cn
+0.0.0.0 game.weibo.com
+0.0.0.0 gw6.push.mcp.weibo.cn
+0.0.0.0 zc.biz.weibo.com
+0.0.0.0 gw5.push.mcp.weibo.cn
+0.0.0.0 game.weibo.cn
+0.0.0.0 biz.weibo.com
+0.0.0.0 zymo.mps.weibo.com
+0.0.0.0 s.alitui.weibo.com
+0.0.0.0 alitui.weibo.com
+0.0.0.0 m.game.weibo.cn
+0.0.0.0 widget.weibo.com
+0.0.0.0 c.biz.weibo.com
+0.0.0.0 c.wcpt.biz.weibo.com
+0.0.0.0 ad3.sina.com.cn
+0.0.0.0 sdkapp.mobile.sina.cn
+0.0.0.0 tjs.sjs.sinajs.cn
+0.0.0.0 wbclick.mobile.sina.cn
+0.0.0.0 d1.sina.com.cn
+0.0.0.0 ads.sina.com
+0.0.0.0 r.dmp.sina.cn
+0.0.0.0 d8.sina.com.cn
+0.0.0.0 woocall.sina.com.cn
+0.0.0.0 staticadm.leju.sina.com.cn
+0.0.0.0 1276.adsina.allyes.com
+0.0.0.0 sina.allyes.com
+0.0.0.0 oascentral.sina.com.hk
+0.0.0.0 twsina.allyes.com
+0.0.0.0 adm.leju.sina.com.cn
+0.0.0.0 contentrecommend-out.mobile.sina.cn
+0.0.0.0 oascentral.sina.com
+0.0.0.0 count.video.sina.com.cn
+0.0.0.0 d2.sina.com.cn
+0.0.0.0 ad4.sina.com
+0.0.0.0 palmnews.sina.cn
+0.0.0.0 adimg.mobile.sina.cn
+0.0.0.0 d0.sina.com.cn
+0.0.0.0 wbapp.mobile.sina.cn
+0.0.0.0 161.adsina.allyes.com
+0.0.0.0 pfp.sina.com.cn
+0.0.0.0 d00.sina.com.cn
+0.0.0.0 60.adsina.allyes.com
+0.0.0.0 beacon.sina.com.cn
+0.0.0.0 simg.sinajs.cn
+0.0.0.0 1148.adsina.allyes.com
+0.0.0.0 rs.sinajs.cn
+0.0.0.0 1100.adsina.allyes.com
+0.0.0.0 sina.yinstar.org
+0.0.0.0 ad4.sina.com.cn
+0.0.0.0 slog.sina.cn
+0.0.0.0 int.dpool.sina.com.cn
+0.0.0.0 44.adsina.allyes.com
+0.0.0.0 wbpctips.mobile.sina.cn
+0.0.0.0 s.img.mix.sina.com.cn
+0.0.0.0 appgift.sinaapp.com
+0.0.0.0 adimages.sina.com.hk
+0.0.0.0 adsina.allyes.com
+0.0.0.0 trends.mobile.sina.cn
+0.0.0.0 api.apps.sina.cn
+0.0.0.0 img.adbox.sina.com.cn
+0.0.0.0 154.adsina.allyes.com
+0.0.0.0 counter.sina.com.cn
+0.0.0.0 45.adsina.allyes.com
+0.0.0.0 d9.sina.com.cn
+0.0.0.0 appsupdate.sinaapp.com
+0.0.0.0 d7.sina.com.cn
+0.0.0.0 d6.sina.com.cn
+0.0.0.0 pfpip.sina.com
+0.0.0.0 motu.p4p.sina.com.cn
+0.0.0.0 d5.sina.com.cn
+0.0.0.0 newspush.sinajs.cn
+0.0.0.0 1251.adsina.allyes.com
+0.0.0.0 d4.sina.com.cn
+0.0.0.0 d3.sina.com.cn
+
+##############################################
+#cnzz
+0.0.0.0 am1.adm.cnzz.net
+0.0.0.0 c.cnzz.com
+0.0.0.0 hqs2.cnzz.com
+0.0.0.0 hzs11.cnzz.com
+0.0.0.0 hzvs2.cnzz.com
+0.0.0.0 s11.cnzz.com
+0.0.0.0 s20.cnzz.com
+0.0.0.0 s5.cnzz.com
+0.0.0.0 tongji.cnzz.com
+0.0.0.0 w.cnzz.com
+
+##############################################
+#qiyou
+0.0.0.0 r.qiyou.com
+
+##############################################
+#bilibili
+0.0.0.0 dns-1226121.test.bilibili.cc
+0.0.0.0 stat.bilibili.cn
+
+##############################################
+#douban
+0.0.0.0 ad.douban.com
+0.0.0.0 erebor.douban.com
+
+##############################################
+#youku
+0.0.0.0 static.atm.youku.com
+0.0.0.0	atm.youku.com
+0.0.0.0	Fvid.atm.youku.com
+0.0.0.0	html.atm.youku.com
+0.0.0.0	valb.atm.youku.com
+0.0.0.0	valf.atm.youku.com
+0.0.0.0	valo.atm.youku.com
+0.0.0.0	valp.atm.youku.com
+0.0.0.0	lstat.youku.com
+0.0.0.0	speed.lstat.youku.com
+0.0.0.0	urchin.lstat.youku.com
+0.0.0.0	stat.youku.com
+0.0.0.0	static.lstat.youku.com
+0.0.0.0	valc.atm.youku.com
+0.0.0.0	vid.atm.youku.com
+0.0.0.0	walp.atm.youku.com
+0.0.0.0	ad.atm.youku.com
+0.0.0.0	atm.youku.com
+0.0.0.0	count.atm.youku.com
+0.0.0.0	e.stat.youku.com
+0.0.0.0	fvid.atm.youku.com
+0.0.0.0	html.atm.youku.com
+0.0.0.0	hz.lstat.youku.com
+0.0.0.0	l.youku.com
+0.0.0.0	lstat.youku.com
+0.0.0.0	nc.youku.com
+0.0.0.0	notice.youku.com
+0.0.0.0	passport-log.youku.com
+0.0.0.0	speed.lstat.youku.com
+0.0.0.0	stat.youku.com
+
+##############################################
+#douyu
+0.0.0.0 staticlive.douyucdn.cn
+0.0.0.0 shark.douyucdn.cn
