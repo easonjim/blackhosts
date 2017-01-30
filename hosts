@@ -82,6 +82,8 @@
 ##############################################
 #ali
 0.0.0.0 a1.alicdn.com
+0.0.0.0 gw.alicdn.com
+0.0.0.0 click.aliyun.com
 
 ##############################################
 #alimama
@@ -259,3 +261,8 @@
 0.0.0.0 pix04.revsci.net
 0.0.0.0 stadig.ifeng.com
 
+##############################################
+#cnblogs
+0.0.0.0 cn.udacity.com
+0.0.0.0 arcapp.anruichina.com
+0.0.0.0 bbs.h3bpm.com
