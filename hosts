@@ -71,6 +71,9 @@
 ##############################################
 #tanx
 0.0.0.0 p.tanx.com
+0.0.0.0 click.tanx.com
+0.0.0.0 cdn.tanx.com
+0.0.0.0 phs.tanx.com
 
 ##############################################
 #clicki
@@ -251,6 +254,6 @@
 ##############################################
 #ifeng
 0.0.0.0 games.ifeng.com
-0.0.0.0 y1.ifengimg.com
 0.0.0.0 d.ifeng.com
+0.0.0.0 amch.questionmarket.com
 
