@@ -6,6 +6,8 @@
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 tajs.qq.com
 0.0.0.0 trace.qq.com
+0.0.0.0 c.l.qq.com
+0.0.0.0 l.qq.com
 #屏蔽腾讯QQ广告代码
 0.0.0.0 fodder.qq.com
 0.0.0.0 adshmct.qq.com
