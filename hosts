@@ -29,7 +29,7 @@
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 scdown.qq.com
-0.0.0.0 img1.gtimg.com
+#0.0.0.0 img1.gtimg.com
 0.0.0.0 pinghot.qq.com
 0.0.0.0 pingfore.tenpay.com
 0.0.0.0 jqmt.qq.com
