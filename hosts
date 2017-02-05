@@ -142,7 +142,7 @@
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 60.adsina.allyes.com
 0.0.0.0 beacon.sina.com.cn
-0.0.0.0 simg.sinajs.cn
+#0.0.0.0 simg.sinajs.cn
 0.0.0.0 1148.adsina.allyes.com
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 1100.adsina.allyes.com
