@@ -1,0 +1,4 @@
+blog.csdn.net###mainBox > div.recommend-right:first-child > ul.recommend-fixed-box
+blog.csdn.net###asideFooter > div.aside-box:last-child > div.persion_article > div.right_box.footer_box.csdn-tracking-statistics
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box:last-child
+blog.csdn.net##div.pulllog-box:nth-child(22)
