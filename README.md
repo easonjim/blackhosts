@@ -3,4 +3,5 @@
 Switchhosts：[https://github.com/oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)    
 屏蔽国内广告hosts地址：[https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts](https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts)  
 屏蔽国内各大直播网站hosts地址：[https://raw.githubusercontent.com/easonjim/blackhosts/master/CustomHosts](https://raw.githubusercontent.com/easonjim/blackhosts/master/CustomHosts)  
-全球hosts地址：[https://raw.githubusercontent.com/easonjim/blackhosts/master/Global](https://raw.githubusercontent.com/easonjim/blackhosts/master/Global)
+全球hosts地址：[https://raw.githubusercontent.com/easonjim/blackhosts/master/Global](https://raw.githubusercontent.com/easonjim/blackhosts/master/Global)  
+Chrome插件AdGuard：[https://raw.githubusercontent.com/easonjim/blackhosts/master/AdGuard](https://raw.githubusercontent.com/easonjim/blackhosts/master/AdGuard)
