@@ -1,4 +1,18 @@
-blog.csdn.net###mainBox > div.recommend-right:first-child > ul.recommend-fixed-box
-blog.csdn.net###asideFooter > div.aside-box:last-child > div.persion_article > div.right_box.footer_box.csdn-tracking-statistics
-blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box:last-child
+cn.vuejs.org###main > div.content.guide.with-sidebar.comparison-guide:last-child > div.ad-pagetop:nth-child(3)
 blog.csdn.net##div.pulllog-box:nth-child(22)
+blog.csdn.net###asideFooter > div.aside-box:last-child > div.persion_article > div.right_box.footer_box.csdn-tracking-statistics
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box
+iviewui.com##div:first-child > div:first-child > div.wrapper:first-child > div.wrapper-container:last-child > div.wrapper-container-tip-out:first-child > div:first-child > div.ivu-alert.ivu-alert-warning.ivu-alert-with-icon.ivu-alert-with-desc.ivu-alert-with-banner
+mail.163.com###\31 553326601217_dvWelBottom
+cnblogs.com###ad_t2
+*.iteye.com###main > div.blog_main:nth-child(2) > div.boutique-curr-box.blog_comment:last-child
+*.iteye.com###content > div.blog-sidebar:nth-child(3) > div.blog-sidebar-fixed > div.persion_article:last-child > div.right_box.footer_box.csdn-tracking-statistics
+*.iteye.com###content > div.blog-sidebar:nth-child(3) > div.blog-sidebar-fixed > div.news-right-side:first-child > div.newbox.recommend > div.recommend-right > ul.recommend-fixed-box
+jianshu.com###fixed-ad-container
+jianshu.com##div.note-bottom:nth-child(3) > div:first-child
+jianshu.com##div.note-bottom:nth-child(3) > div:nth-child(2) > div.recommend-note
+jianshu.com##div.note-bottom:nth-child(3) > div.seo-recommended-notes:last-child
+sspai.com###app > div.article-wrapper:nth-child(2) > div:nth-child(2) > div.related-article
+blog.csdn.net###mainBox > main:nth-child(2) > div.t0.clearfix:nth-child(4)
+cnblogs.com###headline_block
+cnblogs.com###side_right
